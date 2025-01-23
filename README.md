@@ -11,8 +11,7 @@
 - **Design:** Sou muito boa em design e adoro criar interfaces atraentes.
 - **Trabalho em Equipe:** Gosto de colaborar e trabalhar em equipe para alcançar objetivos comuns.
 
-## Vamos nos conectar!
-Estou sempre aberta a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
+
 
 
 <!--
