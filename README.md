@@ -12,14 +12,14 @@
 - **Trabalho em Equipe:** Gosto de colaborar e trabalhar em equipe para alcançar objetivos comuns.
 
 ## Perguntas frequentes 
--🔭 Estou trabalhando em: TTRPG
--🌱 Estou aprendendo: programação
--👯 Eu vou colaborar com: Ninguem
--🤔 Preciso de ajuda com: nada
--💬 Me pergunte sobre: nada
--📫 Contato: rzz.chiara24@gmail.com
--😄 Pronomes: Ela/dela Elu/delu
--⚡ Fun fact: Não consigo progrmar sem musica XD
+- 🔭 Estou trabalhando em: TTRPG
+- 🌱 Estou aprendendo: programação
+- 👯 Eu vou colaborar com: Ninguem
+- 🤔 Preciso de ajuda com: nada
+- 💬 Me pergunte sobre: nada
+- 📫 Contato: rzz.chiara24@gmail.com
+- 😄 Pronomes: Ela/dela Elu/delu
+- ⚡ Fun fact: Não consigo progrmar sem musica XD
 
 
 
