@@ -1,4 +1,4 @@
-# Olá, eu sou a Chiara!
+# Olá, eu sou a Chiara! ✨
 
 ## Sobre Mim
 - **Idade:** 17 anos
