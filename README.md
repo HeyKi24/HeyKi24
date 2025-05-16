@@ -12,7 +12,7 @@
 - **Trabalho em Equipe:** Gosto de colaborar e trabalhar em equipe para alcançar objetivos comuns.
 
 ## Perguntas frequentes 
-- 🔭 Estou trabalhando em: TTRPG
+- 🔭 Estou trabalhando em: SPG Wiki
 - 🌱 Estou aprendendo: programação
 - 👯 Eu vou colaborar com: Ninguem
 - 🤔 Preciso de ajuda com: nada
